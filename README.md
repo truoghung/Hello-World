@@ -8,5 +8,4 @@ export default class Helloworldapp extends Component {
       <Text> Hello World!</Text>);
   }
 } 
->
-
+> Test new branch readme-edits
